@@ -136,3 +136,6 @@ function FeedDog(){
     database.ref('/').update({
       Food:position})
     }
+    
+
+    
